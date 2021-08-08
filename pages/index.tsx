@@ -11,114 +11,120 @@ const Home: React.FC = () => {
       <Head>
         <title>Mement | Home</title>
       </Head>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
-        excepturi quidem perspiciatis inventore consectetur atque earum ratione
-        itaque quas deleniti, delectus aliquid tempore culpa vel animi at
-        repudiandae magni?
-      </p>
+
+      <Nav />
+      <div className="content">
+        <h1>Home Tab</h1>
+
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
+          placeat excepturi quidem perspiciatis inventore consectetur atque
+          earum ratione itaque quas deleniti, delectus aliquid tempore culpa vel
+          animi at repudiandae magni?
+        </p>
+      </div>
     </div>
   );
 };
