@@ -1,15 +1,7 @@
 #HomePage {
-  position: absolute;
-  width: 100vw;
-  height: 100vh;
-  background-color: lightblue;
-  overflow-y: scroll;
+  background-color: transparent;
 
   p {
     margin: 100px 20%;
-  }
-
-  .AppNav {
-    background-color: black;
   }
 }
