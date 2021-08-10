@@ -16,7 +16,7 @@ const Home: React.FC = () => {
       {/* <Nav /> */}
       {/* <div className="content"> */}
       {/* <Link href="/profile"> */}
-      <h1>Home Tab</h1>
+      {/* <h1>Home Tab</h1> */}
       {/* </Link> */}
 
       <p>
@@ -133,3 +133,23 @@ const Home: React.FC = () => {
 };
 
 export default Home;
+
+// .document code
+
+// import Document, { Html, Head, Main, NextScript } from "next/document";
+
+// class MyDocument extends Document {
+//   render() {
+//     return (
+//       <Html>
+//         <Head />
+//         <body>
+//           <Main />
+//           <NextScript />
+//         </body>
+//       </Html>
+//     );
+//   }
+// }
+
+// export default MyDocument;

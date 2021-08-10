@@ -1,7 +1,6 @@
 @import "./functions";
 
-#HomePage,
-#searchPage {
+#HomePage {
   background-color: transparent;
 
   // .AppNav {
@@ -24,8 +23,7 @@
   // .content {
   //   background-color: transparent;
 
-  p,
-  h1 {
+  p {
     margin: 100px 20%;
   }
   // }
