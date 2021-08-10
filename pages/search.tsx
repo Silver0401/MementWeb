@@ -4,7 +4,7 @@ import Nav from "./../components/nav";
 const search: React.FC = () => {
   return (
     <div id="searchPage">
-      <Nav />
+      {/* <Nav /> */}
 
       <h1>Search Tab</h1>
       <p>

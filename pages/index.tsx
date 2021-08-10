@@ -4,6 +4,7 @@ import React from "react";
 // Components
 import Nav from "./../components/nav";
 import Head from "next/head";
+import Link from "next/link";
 
 const Home: React.FC = () => {
   return (
@@ -12,9 +13,11 @@ const Home: React.FC = () => {
         <title>Mement | Home</title>
       </Head>
 
-      <Nav />
+      {/* <Nav /> */}
       <div className="content">
-        <h1>Home Tab</h1>
+        <Link href="/profile">
+          <h1>Home Tab</h1>
+        </Link>
 
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
