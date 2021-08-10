@@ -15,5 +15,5 @@ body {
   width: 100vw;
   height: 100vh;
   background-color: slategray;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
