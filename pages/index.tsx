@@ -2,9 +2,9 @@
 import React from "react";
 
 // Components
-import Nav from "./../components/nav";
+// import Nav from "./../components/nav";
 import Head from "next/head";
-import Link from "next/link";
+// import Link from "next/link";
 
 const Home: React.FC = () => {
   return (
@@ -12,13 +12,6 @@ const Home: React.FC = () => {
       <Head>
         <title>Mement | Home</title>
       </Head>
-
-      {/* <Nav /> */}
-      {/* <div className="content"> */}
-      {/* <Link href="/profile"> */}
-      {/* <h1>Home Tab</h1> */}
-      {/* </Link> */}
-
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque placeat
         excepturi quidem perspiciatis inventore consectetur atque earum ratione
